@@ -18,7 +18,7 @@ Tópico é o canal de comunicacao responsavel por receber e disponiblizar os dad
 
 Esse topico pode ser lido por quantos sistemas precisarem. Diferente do RabbitMq
 
-Topico é como se fosse um LOG. 
+Topico é similar um LOG. 
 
 Quando um topico recebe uma mensagem ele vai armazenando uma atras da outra. E ela ganha como se fosse um ID (offset) - Posicao de cada mensagem.
 
